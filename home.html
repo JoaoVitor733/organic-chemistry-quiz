@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="#">
+        <link href="css/main.css" rel="stylesheet">
+        <title>Quiz</title>
+    </head>
+    <body>
+        <div class="container">
+            <p id="time" class="time"></p>
+            <div class="grid">
+                <header>
+                    <h4 class="title_question" id="pergunta"></h4>
+                </header>
+                <main>
+                    <div class="button_alternative" id="A" onclick= "markedAlternative('A',this)"></div>
+                    <div id="B" class="button_alternative" onclick="markedAlternative('B',this)"></div><br>
+                    <div class="button_alternative" id="C" onclick="markedAlternative('C',this)"></div>
+                    <div class="button_alternative" id="D" onclick="markedAlternative('D',this)"></div>
+                    <div class="points" id="points"></div>
+                </main>
+                <div class="questions" id="questions"></div>
+                <audio src="sounds/correct.mp3" id="correct"></audio>
+                <audio src="sounds/wrong.mp3" id="wrong"></audio>
+            </div>
+        </div>
+        <footer class="creditos" id="autor">João Vitor &copy; 2022</footer>
+        <script src="js/main.js" defer></script>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+body {
+    text-align: center;
+    background-color: #EDEBDC;
+    font-family: 'Roboto Mono', monospace;
+    padding: 2%   
+}
+
+header {
+    background-color: #6E6D65;
+    border-radius: 14px;
+    margin: 2%;
+    font-size: 5%; 
+}
+
+main {
+    background-color: #ADACA2;
+    border-radius: 14px;
+    margin: 1%;
+    padding: 2%;
+}
+
+.title_question {
+    color: #FAF8EF;
+    margin: 2%;
+    padding: 1%;
+    font-size: 20px;
+}
+
+.grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    background-color: #D4D2CD;
+    border-radius: 20px;
+    padding: 1%;
+    align-items: center;
+}
+
+.button_alternative {
+    color: #FAF8EF;
+    border-radius: 10px;
+    background-color: #6E6D65;
+    text-align: center;
+    padding: 8%;
+    margin: 3%;
+    width: 25%;
+    height: 25%;
+    font-size: 100%;
+    display: inline-block;
+}
+
+.button_alternative:hover{
+    background-color: #FAF8EF;
+    color: #6E6D65;
+}
+
+.creditos {
+    font-size: 15px;
+    padding: 5px;
+}
+
+.time{
+    font-size: 20px;
+    text-align: center;
+    color:#6E6D65;
+}
+
+.questions{
+    padding-bottom: 20px;
+}
+
+.btn{
+    background-color: #6E6D65;
+    border-radius: 5px;
+    border: 2px solid #f6f6f6;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+a{
+    color: #FAF8EF;
+}

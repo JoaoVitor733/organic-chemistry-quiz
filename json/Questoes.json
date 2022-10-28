@@ -1,0 +1,83 @@
+{
+    "questoes": [{
+        "questao": 1,
+        "pergunta": "Até quantas ligações os elementos químicos C,O,N e H podem realizar respectivamente?",
+        "A": "3,2,4,1",
+        "B": " 4,2,3,1",
+        "C": "2,3,4,1",
+        "D": "1,4,2,3",
+        "correta": "B"
+    }, {
+        "questao": 2,
+        "pergunta": " Indique quantos carbonos primários, secundários, terciários e quaternários  existem nesse composto: CH3 (CH2 )4CH3",
+        "A": "2 primários, 4 secundários, 0 terciários e 0 quaternários",
+        "B": "3 primários, 1 secundários, 0 terciários e 0 quaternários",
+        "C": "1 primários, 1 secundários, 2 terciários e 0 quaternários",
+        "D": "0 primários, 4 secundários, 0 terciários e 2 quaternários",
+        "correta": "A"
+    }, {
+        "questao": 3,
+        "pergunta": "Uma cadeia é ramificada, saturada e heterogênea quando:",
+        "A": "Quando há apenas duas extremidades, quando só existem ligações simples entre os átomos de carbono e presença de heteroátomo. ",
+        "B": "Quando não há apenas duas extremidades, quando não  existem ligações simples entre os átomos de carbono e presença de heteroátomo.",
+        "C": "Quando não há apenas duas extremidades, quando só existem ligações simples entre os átomos de carbono e presença de heteroátomo.",
+        "D": "Quando não há apenas duas extremidades, quando só existem ligações simples entre os átomos de carbono e não presença de heteroátomo.",
+        "correta": "C"
+    }, {
+        "questao": 4,
+        "pergunta": "Os compostos alifáticos(acíclicos), alicíclicos e benzênico são respectivamente:  ",
+        "A": "Cadeias fechadas, cíclicas que não são anéis benzênicos e anéis benzênicos.",
+        "B": "Cadeias fechadas, cíclicas que não são anéis benzênicos e  não são anéis benzênicos.",
+        "C": "Cadeias fechadas, cíclicas que são anéis benzênicos e não são anéis benzênicos.",
+        "D": "Cadeias abertas,  cíclicas que não são anéis benzênicos e os anéis benzênicos.",
+        "correta": "D"
+    }, {
+        "questao": 5,
+        "pergunta": "Qual o nome do fenômeno que permite que o carbono realize até 4 ligações?",
+        "A": "Carbonização.",
+        "B": "Distribuição eletrônica",
+        "C": "Hibridização.",
+        "D": "Ionização.",
+        "correta": "C"
+    }, {
+        "questao": 6,
+        "pergunta": "Alcanos, alcenos, alcinos são hidrocarbonetos que possuem respectivamente:",
+        "A": "Ligações duplas, ligações simples e ligações triplas.",
+        "B": "Ligações simples, ligações duplas, ligações triplas.",
+        "C": "Ligações triplas, ligações simples e ligações duplas.",
+        "D": "Ligações triplas, ligações duplas e ligações simples.",
+        "correta": "B"
+    }, {
+        "questao": 7,
+        "pergunta": "Alcadienos e cicloalcanos são hidrocarbonetos que possuem respectivamente:",
+        "A": "Duas ligações duplas e cíclicos com ligações duplas",
+        "B": "Uma ligação dupla e cíclicos com ligações duplas.",
+        "C": "Uma ligação dupla e cíclicos com ligações simples.",
+        "D": "Duas ligações duplas e cíclicos com ligações simples.",
+        "correta": "D"
+    }, {
+        "questao": 8,
+        "pergunta": "Marque a alternativa que contém apenas hidrocarbonetos:",
+        "A": "Alcanos, benzeno e cetona.",
+        "B": "Alcinos, álcool e fenil.",
+        "C": "Alcenos, benzeno e alcadieno.",
+        "D": "Fenil, metil e benzeno.",
+        "correta": "C"
+    }, {
+        "questao": 9,
+        "pergunta": "Marque a alternativa que contém uma função oxigenada e uma nitrogenada respectivamente.",
+        "A": "Amida e éster. ",
+        "B": "Fenol e amina.",
+        "C": "Amida e amina.",
+        "D": "Álcool e benzeno.",
+        "correta": "B"
+    }, {
+        "questao": 10,
+        "pergunta": "    Marque a alternativa que contém hidroxila, carbonila e carboxila respectivamente.",
+        "A": "OH, CO, COOH",
+        "B": "OH, COOH, CO",
+        "C": "CO,OH,COO",
+        "D": "NOH,H,N",
+        "correta": "A"
+    }]
+}
